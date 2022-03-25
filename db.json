@@ -2,28 +2,28 @@
   "posts":[
     {
       "id" : 0,
-      "title1": "AKALI",
-      "ch1" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt184e3929cff8800d/5f9b3bde13068510d47ade93/akali_skin01.jpg"
+      "title": "AKALI",
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt184e3929cff8800d/5f9b3bde13068510d47ade93/akali_skin01.jpg"
     },
     {
      "id" : 0,
-      "title2": "AKSHAN",
-      "ch2" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltfde538e3e72e9246/60f093a6b86fce146acbdfa4/Akshan_Skin01.jpg" 
+      "title": "AKSHAN",
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltfde538e3e72e9246/60f093a6b86fce146acbdfa4/Akshan_Skin01.jpg" 
     },
     {
      "id" : 0,
-      "title3": "ALISTAR",
-      "ch3" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt076ea9784fca356e/5f7f704a0faf280f13a2ae79/alistar_skin01.jpg" 
+      "title": "ALISTAR",
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt076ea9784fca356e/5f7f704a0faf280f13a2ae79/alistar_skin01.jpg" 
     },
     {
      "id" : 0,
-      "title4": "AMUMU",
-      "ch4" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltd255f77394c6e21c/5f7f7063ee00c80ec595af5e/amumu_skin01.jpg" 
+      "title": "AMUMU",
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltd255f77394c6e21c/5f7f7063ee00c80ec595af5e/amumu_skin01.jpg" 
     },
     {
      "id" : 0,
-      "title5": "AHRI",
-      "ch5" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt74db10820aaf6681/5f76a443f11ee70e9e14ca93/Ahri_Skin01_icon.jpg" 
+      "title": "AHRI",
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt74db10820aaf6681/5f76a443f11ee70e9e14ca93/Ahri_Skin01_icon.jpg" 
     }
   ],
   "comments" : [
