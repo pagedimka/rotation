@@ -51,12 +51,14 @@
     {
      "id" : 0,
       "title": "BRAND",
-      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blted7c260837149f2f/6132ec26935c950ffbd3dd5f/Brand_Skin01icon.jpg" 
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blted7c260837149f2f/6132ec26935c950ffbd3dd5f/Brand_Skin01icon.jpg",
+      "title2": ""  
     },
     {
      "id" : 0,
       "title": "CAITLYN",
-      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt2bc6d259d39a80e4/61832000ffff3679072221c2/Caitlyn_Skin01.jpg" 
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt2bc6d259d39a80e4/61832000ffff3679072221c2/Caitlyn_Skin01.jpg",
+      "title2": ""  
     }
   ]
 }
