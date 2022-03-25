@@ -24,6 +24,11 @@
      "id" : 0,
       "title": "AHRI",
       "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt74db10820aaf6681/5f76a443f11ee70e9e14ca93/Ahri_Skin01_icon.jpg" 
+    },
+    {
+     "id" : 0,
+      "title": "AURELION SOL",
+      "content" : "https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltbbacd6660bc1a199/5f7f70b20108fe0f08577e6f/aurelionsol_skin01.jpg" 
     }
   ]
 }
